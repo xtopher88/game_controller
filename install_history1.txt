@@ -1,0 +1,48 @@
+    1  ifcinfig
+    2  ifconfig
+    3  apt-get update
+    4  sudo apt-get update
+    5  sudo apt-get upgrade
+    6  sudo apt-get install pi-bluetooth
+    7  RetroPie-Setup
+    8  RetroPie-Setup/retropie_setup.sh 
+    9  sudo /home/pi/RetroPie-Setup/retropie_packages.sh 
+   10  sudo /home/pi/RetroPie-Setup/retropie_setup.sh 
+   11  sudo raspi-config
+   12  udevadm info /dev/input/js0
+   13  ifconfig
+   14  vi /etc/udev/rules.d/99-gamepad.rules
+   15  sudo raspi-config
+   16  udevadm info /dev/input/js0
+   17  vi /etc/udev/rules.d/99-gamepad.rules
+   18  reboot
+   19  reboot now
+   20  sudo reboot now
+   21  vi /etc/udev/rules.d/99-gamepad.rules
+   22  sodo vi /etc/udev/rules.d/99-gamepad.rules
+   23  sudo vi /etc/udev/rules.d/99-gamepad.rules
+   24  vi /etc/udev/rules.d/99-gamepad.rules
+   25  sudo vi /etc/udev/rules.d/99-gamepad.rules
+   26  vi /etc/udev/rules.d/99-gamepad.rules
+   27  sudo reboot now
+   28  udevadm info /dev/input/js0
+   29  dmesg 
+   30  ls -l /dev/input/js*
+   31  ls /etc/udev/rules.d
+   32  nano 99-input-rules
+   33  nano 99-com.rules
+   34  nano 99-gamepad.rules
+   35  ls -al
+   36  sudo reboot -now
+   37  sudo reboot now
+   38  sudo nano /etc/udev/rules.d/99-gamepad.rules
+   39  sudo reboot now
+   40  sudo nano /etc/udev/rules.d/99-gamepad.rules
+   41  sudo reboot now
+   42  nano /opt/retropie/configs/all/retroarch/autoconfig/SparkFun\ SparkFun\ Pro\ Micro.cfg 
+   43  sudo reboot now
+   44  history
+   45  git
+   46  ls
+   47  git clone https://github.com/xtopher88/game_controller.git
+   48  history > game_controller/install_history1.txt
